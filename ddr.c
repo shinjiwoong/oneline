@@ -2,7 +2,7 @@
 #include<dos.h>
 #include<conio.h>
 
-
+/zzz/
 #define	s	179 // 세로 
 #define g	196  //가로
 #define L	218 //왼쪽위  
